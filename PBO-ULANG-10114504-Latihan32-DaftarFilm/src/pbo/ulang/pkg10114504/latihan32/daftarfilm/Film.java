@@ -7,7 +7,11 @@ package pbo.ulang.pkg10114504.latihan32.daftarfilm;
 
 /**
  *
- * @author Andri
+ * @author 
+ * NAMA     : Sandy Akbar
+ * KELAS    : PBO-Ulang
+ * NIM      : 10114504
+ * DESKRIPSI:Program Ini berisi tentang class film
  */
 public class Film {
     public String filmName, filmGenre;
